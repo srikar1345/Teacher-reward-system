@@ -36,8 +36,8 @@ The `TeacherPerformanceReward` smart contract is designed to reward teachers bas
 ## Developer Details
 
 - **Project Lead**: Srikar Bitla 
-  - **Email**: [bitlasrikar.email@example.com]
-  - **GitHub**: [Your GitHub Profile]
+  - **Email**: [bitlasrikar@gmail.com]
+
 
 ## Deployment
  Chain Name: Educhain open campus 
